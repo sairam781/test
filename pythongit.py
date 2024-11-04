@@ -1,1 +1,1 @@
-print("this is a simple branch")
+print("this is a sample branch")
